@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Retrofit2UseRestAPI</string>
+    <string name="api_key">1328eee13444a7ab65afddc5c653f231</string>
+    <string name="base_path_poster">https://image.tmdb.org/t/p/w500</string>
+</resources>
